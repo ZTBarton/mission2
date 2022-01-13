@@ -1,0 +1,12 @@
+﻿body {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+
+img{
+    height: 25rem;
+}
+p{
+    width:25rem;
+}
